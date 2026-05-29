@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Maximos</h1>
 <h3 align="center">A passionate aspiring developer from Cyprus</h3>
 
-- 🌱 I’m currently learning **Rust**
+I'm a 9th-grade student and aspiring software developer from Cyprus 🇨🇾. I started with Python with Algorythmics Greece(an online platform that teaches code) and JavaScript at around the same time. Most of my time is in Python and I have experience with some libraries. Thanks to BroCode, TechWithTim, NeuralNine, TheCherno and other youtubers for helping the learning proccess.
+
+I really like experimenting with pc and differrent technologies like playing with DLSS and FG and playing with performance in differrent games.
+
+I want to improve with C++ (a lot of work to be done here) and thinking of getting into Game Dev with Unreal.
+
+- 🌱 I’m currently improving my skills with C# and C++.
 
 - 📫 How to reach me **amaximos009@gmail.com**
+  I
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
