@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maximos</h1>
 <h3 align="center">A passionate aspiring developer from Cyprus</h3>
 
-I'm a 9th-grade student and aspiring software developer from Cyprus 🇨🇾. I started with Python with Algorythmics Greece(an online platform that teaches code) and JavaScript at around the same time. Most of my time is in Python and I have experience with some libraries. Thanks to BroCode, TechWithTim, NeuralNine, TheCherno and other youtubers for helping the learning proccess.
+I'm a 10th-grade student and aspiring software developer from Cyprus 🇨🇾. I started with Python with Algorythmics Greece(an online platform that teaches code) and JavaScript at around the same time. Most of my time is in Python and I have experience with some libraries. Thanks to BroCode, TechWithTim, NeuralNine, TheCherno and other youtubers for helping the learning proccess.
 
 I really like experimenting with pc and differrent technologies like playing with DLSS and FG and playing with performance in differrent games.
 
