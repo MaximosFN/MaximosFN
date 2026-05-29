@@ -5,12 +5,13 @@ I'm a 9th-grade student and aspiring software developer from Cyprus 🇨🇾. I 
 
 I really like experimenting with pc and differrent technologies like playing with DLSS and FG and playing with performance in differrent games.
 
+Firstly, I want to learn how computers, operating systems actually work for example the kernel and bios and get a good understading.
 I want to improve with C++ (a lot of work to be done here) and thinking of getting into Game Dev with Unreal.
 
 - 🌱 I’m currently improving my skills with C# and C++.
 
 - 📫 How to reach me **amaximos009@gmail.com**
-  I
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
