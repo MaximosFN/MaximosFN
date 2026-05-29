@@ -4,7 +4,7 @@
 **MaximosFN/MaximosFN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Maximos</h1>
-<h3 align="center">A passionate aspring developer from Cyprus</h3>
+<h3 align="center">A passionate aspiring developer from Cyprus</h3>
 
 - 🌱 I’m currently learning **Rust**
 
@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/maxpc61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maxpc61" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/maximos the gamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maximos the gamer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/maximosthegamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maximosthegamer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
